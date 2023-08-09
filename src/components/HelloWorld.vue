@@ -17,9 +17,9 @@ defineProps({
     </div>
 
     <h3>
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
+      I have two website,
+      <a href="https://cheverjohn.me/" target="_blank" rel="noopener">cheverjohn.me</a> +
+      <a href="https://cheverjohn.xyz/" target="_blank" rel="noopener">cheverjohn.xyz</a>.
     </h3>
   </div>
 </template>

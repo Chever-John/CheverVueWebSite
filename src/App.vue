@@ -7,13 +7,14 @@ import TheWelcome from './components/TheWelcome.vue'
   <header>
     <!-- <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" /> -->
 
-
+    <!-- header 中放入 HelloWorld 模块 -->
     <div class="wrapper">
       <HelloWorld msg="Chever John's Website" />
     </div>
   </header>
 
   <main>
+    <!-- 在 main 中放入 TheWelcome 模块 -->
     <TheWelcome />
   </main>
 </template>

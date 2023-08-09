@@ -11,6 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="black">{{ msg }}</h1>
 
+    <!-- 插入富士山图片 -->
     <div class="container">
       <img src="/src/assets/mtfuji.jpeg" alt="Chever John" />
     </div>

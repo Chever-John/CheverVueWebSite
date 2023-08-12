@@ -9,7 +9,7 @@ defineProps({
 
 <template>
   <div class="greetings">
-    <h1 class="black">{{ msg }}</h1>
+    <h1 class="green">{{ msg }}</h1>
 
     <!-- 插入富士山图片 -->
     <div class="container">

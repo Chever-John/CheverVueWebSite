@@ -1,12 +1,5 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
-</script>
-
 <template>
   <header>
-    <!-- <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" /> -->
-
     <!-- header 中放入 HelloWorld 模块 -->
     <div class="wrapper">
       <HelloWorld msg="Chever John's Website" />
@@ -18,6 +11,11 @@ import TheWelcome from './components/TheWelcome.vue'
     <TheWelcome />
   </main>
 </template>
+
+<script setup>
+import HelloWorld from './components/HelloWorld.vue'
+import TheWelcome from './components/TheWelcome.vue'
+</script>
 
 <style scoped>
 header {
